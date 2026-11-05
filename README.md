@@ -1,5 +1,3 @@
-# BOMOS self-assessment
-
 Beheer je een standaard of afsprakenstelsel? Of ga je er een ontwikkelen? Voer zelfstandig een BOMOS-assessment uit.
 
 Een self-assessment is een interactieve manier om je eigen organisatie een spiegel voor te houden op welke vlakken je het beheer al op orde is of verder kan verbeteren.
